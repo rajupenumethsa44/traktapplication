@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">Trakt.tv</string>
+    <string name="title_activity_movie_list">Movie List</string>
+    <string name="pompt_userID">User ID</string>
+    <string name="action_login">Login</string>
+    <string name="prompt_pswrd">Password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">Username or password is incorrect</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+</resources>
